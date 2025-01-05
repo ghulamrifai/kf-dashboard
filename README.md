@@ -29,7 +29,7 @@ The SQL query uses several *Common Table Expressions* (CTEs) to process the data
 The final query output is stored in the `analysis_table`. This table will be linked to build an interactive dashboard in **Google Looker Studio**. The dashboard provides insights into sales performance, profits, and branch operations.
 
 ## Dashboard Access
-The dashboard can be accessed via the following link: **[click here.](https://lookerstudio.google.com/reporting/1af9ddef-d58e-4e17-b9fa-38f53c1de4d1).**
+The dashboard can be accessed via the following link: **[click here.](https://lookerstudio.google.com/reporting/1af9ddef-d58e-4e17-b9fa-38f53c1de4d1)**
 
 ## Query Structure
 Here is an overview of the process in the SQL query:
